@@ -1,0 +1,1 @@
+# openshift-training-22
